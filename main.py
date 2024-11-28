@@ -34,6 +34,6 @@ def openfile():
 save_button = Button(toor,width='5',height='1',bg='#fff',text='Save',command=savefile).place(x=5,y=5)
 open_button = Button(toor,width='5',height='1',bg = '#fff', text='Open' ,command=openfile).place(x=80,y=5)
 
-string = Text(toor,height='31',width='63', wrap = WORD,font='arial')
+string = Text(toor,height='31',width='63', wrap = WORD,font='Ubuntu')
 string.place(x=13,y=50)
 toor.mainloop()

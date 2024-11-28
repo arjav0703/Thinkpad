@@ -3,6 +3,10 @@
 #### Overview
 This Python project is a simple text editor application built using the Tkinter library. The application allows users to create, open, and save text files with a graphical user interface (GUI). It is a lightweight tool designed for basic text editing, supporting operations such as opening existing text files and saving new files in `.txt` format.
 
+## Click to watch video
+
+[![Watch the video](https://cloud-11afp1k4r-hack-club-bot.vercel.app/0image.png)](https://cloud-a033jaby1-hack-club-bot.vercel.app/0screencast_from_2024-11-28_19-00-52.mp4)
+
 #### Features:
 - **Open File**: Allows users to browse and open existing `.txt` files.
 - **Save File**: Users can save their text content into new or existing files with `.txt` extension.
