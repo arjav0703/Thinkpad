@@ -1,5 +1,5 @@
 # Thinkpad
-
+## NOTE: THIS BROJECT WAS BUILT BY FOLLOWING A TUTORIAL AND I DID SOME MINOR SCALING CHANGES https://youtu.be/uf1IAjxmsD4?si=ahBd6NmpOmEzRZMN
 #### Overview
 This Python project is a simple text editor application built using the Tkinter library. The application allows users to create, open, and save text files with a graphical user interface (GUI). It is a lightweight tool designed for basic text editing, supporting operations such as opening existing text files and saving new files in `.txt` format.
 
